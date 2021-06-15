@@ -6,4 +6,5 @@
 
 - A simple project in which the Bitcoin texture rotates around the x and y axes via the keyboard direction keys through OpenGL.
 
-![rotateBitcoin](./video.mov)
+
+https://user-images.githubusercontent.com/13254639/122008266-cae9d080-cdf3-11eb-8573-f07f77e572f0.mov
